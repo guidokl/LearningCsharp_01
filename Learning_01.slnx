@@ -9,4 +9,5 @@
   <Project Path="L07_AbstractOrVirtualMethod_TLS/L07_AbstractOrVirtualMethod.csproj" Id="f64bb374-fdc3-4e32-a369-e04347375461" />
   <Project Path="L08_ConstructorInheritance/L08_ConstructorChaining.csproj" Id="8838aacf-37fa-4259-943b-f76929d5d5ef" />
   <Project Path="L09_MethodOverloading/L09_MethodOverloading.csproj" Id="cf20e726-7521-42df-b023-13625bc91fef" />
+  <Project Path="L10_Interfaces/L10_Interfaces.csproj" Id="e7fcccb2-4fcc-4af2-a7bb-545ea2d2ca23" />
 </Solution>

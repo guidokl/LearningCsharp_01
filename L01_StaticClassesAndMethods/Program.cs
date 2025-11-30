@@ -13,7 +13,7 @@ namespace L01_StaticClassesAndMethods
             Car car1 = new Car();
             car1.StartEngine();
             Tools.PrintMessage($"This car has {car1.NumberOfWheels} wheels.");
-            // Car.StartEngine(); // This line would cause a compile-time error
+            // Car.StartEngine(); // This line would cause a compile-time error because StartEngine is not static
 
             Tools.PrintMessage("Hello."); // Possible to call static method directly
             // Tools tool1 = new Tools(); // This line would cause a compile-time error
