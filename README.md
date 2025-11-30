@@ -21,7 +21,7 @@ The solution is organized into separate Console Applications, each focusing on a
 | **L07_AbstractOrVirtual** | Overriding | The difference between `abstract` (must override) and `virtual` (can override). |
 | **L08_ConstructorChaining** | Constructors | Using `this()` and `base()` to manage object initialization. |
 | **L09_MethodOverloading** | Overloading | Creating methods with the same name but different signatures. |
-| ** L10_Interfaces** |	Interfaces | Defining contracts to force specific behaviors across different classes. |
+| **L10_Interfaces** |	Interfaces | Defining contracts to force specific behaviors across different classes. |
 
 ## 🚀 How to Run
 
