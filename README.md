@@ -23,14 +23,6 @@ The solution is organized into separate Console Applications, each focusing on a
 | **L09_MethodOverloading** | Overloading | Creating methods with the same name but different signatures. |
 | **L10_Interfaces** |	Interfaces | Defining contracts to force specific behaviors across different classes. |
 
-## 🚀 How to Run
-
-1. Clone the repository.
-2. Open `Learning_01.sln` in **Visual Studio**.
-3. Right-click the project you want to run (e.g., `L04_Inheritance`) in the Solution Explorer.
-4. Select **"Set as Startup Project"**.
-5. Press `F5` or click **Start** to run the code.
-
 ## 📚 Sources & Inspiration
 
 The code in this repository is heavily inspired by various C# educational channels on YouTube. It serves as a personal knowledge base and practice ground.
